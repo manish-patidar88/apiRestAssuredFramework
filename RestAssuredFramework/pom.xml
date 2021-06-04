@@ -14,11 +14,11 @@
 
 	<developers>
 		<developer>
-			<name>Nishant</name>
-			<id>123</id>
-			<organization>Fun Doo Testers</organization>
-			<organizationUrl>http://www.fundootesters.com</organizationUrl>
-			<email>fundootesters@gmail.com</email>
+			<name>Manish Patidar</name>
+			<id>12345</id>
+			<organization>WK</organization>
+			<organizationUrl>http://xyz.com</organizationUrl>
+			<email>manish.patidar@gmail.com</email>
 			<roles>
 				<role>SDET</role>
 			</roles>
